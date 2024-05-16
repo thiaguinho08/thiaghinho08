@@ -15,4 +15,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 
 
-![](https://tenor.com/pt-PT/view/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc-torcedores-do-s%C3%A3o-paulo-tricolor-futebol-brasileiro-gif-18313991613208555832)
+![]( https://tenor.com/pt-PT/view/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc-torcedores-do-s%C3%A3o-paulo-tricolor-futebol-brasileiro-gif-18313991613208555832)
